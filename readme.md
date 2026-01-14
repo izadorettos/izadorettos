@@ -1,8 +1,8 @@
 # 👩🏼‍💻 Izadora B. Doreto
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Ciência+da+Computação+%26+Front+End;HTML+CSS+JS+%7C+React.js;UX%2FUI+Design+%26+Automoção;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
-  </a>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?lines=Ciência+da+Computação+%26+Front+End;HTML+CSS+JS+%7C+React.js;UX%2FUI+Design+%26+Automoção;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
+  </p>
 </div>
 
 **`Desenvolvedora Front-end`**
@@ -94,6 +94,7 @@ Sou Izadora Bitencourti Doreto, tenho 18 anos e sou natural de Mato Grosso do Su
     height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izadorettos&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
+
 
 ## 📫 Vamos Conversar?
 
