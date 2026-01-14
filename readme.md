@@ -90,7 +90,6 @@ Sou Izadora Bitencourti Doreto, tenho 18 anos e sou natural de Mato Grosso do Su
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izadorettos&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 
-
 ## 📫 Vamos Conversar?
 
 <div align="Center">
