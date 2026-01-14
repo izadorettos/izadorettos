@@ -1,9 +1,4 @@
 # 👩🏼‍💻 Izadora B. Doreto
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?lines=Ciência+da+Computação+%26+Front+End;HTML+CSS+JS+%7C+React.js;UX%2FUI+Design+%26+Automoção;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
-  </p>
-</div>
 
 **`Desenvolvedora Front-end`**
 
