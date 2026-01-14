@@ -75,13 +75,7 @@ Sou Izadora Bitencourti Doreto, tenho 18 anos e sou natural de Mato Grosso do Su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 /> 
 <br>
-#### 🌍 Idiomas
-
-* **Português:** Nativo
-* **Inglês:** Intermediário
-
-<br/>
-<br/>
+</p>
 
 ### 📊 Estatísticas
 
@@ -89,24 +83,21 @@ Sou Izadora Bitencourti Doreto, tenho 18 anos e sou natural de Mato Grosso do Su
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=izadorettos&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-    align="left"
+    align="center"
     alt="Top Languages"
-    height="200"
+    height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izadorettos&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
-</p>
-
----
 
 ## 📫 Vamos Conversar?
 
-<div align="center">
+<div align="Center">
   <a href="https://linkedin.com/in/Izadora-Bitencourti-Doreto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -123,4 +114,3 @@ Sou Izadora Bitencourti Doreto, tenho 18 anos e sou natural de Mato Grosso do Su
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
-</p>
